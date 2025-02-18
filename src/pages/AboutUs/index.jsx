@@ -21,7 +21,7 @@ function AboutUs (){
       <h2 className="text-xl font-semibold mb-2">Installation:</h2>
       <p className="mb-2">To get started with the project, clone the repository:</p>
       <div className="bg-gray-100 p-3 rounded-md">
-        <span>git clone https://github.com/your-username/react-list-app.git</span>
+        <span>git clone https://github.com/JUNEDSK/react-list-app.git</span>
       </div>
 
       <p className="mt-4">
