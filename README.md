@@ -40,7 +40,7 @@ You can learn more in the [How to create React app with Vite](https://medium.com
 
 
 ### Key sections explained:
-- **Features**: Lists the primary functionalities of your application.
+- **Features**: Lists the primary functionalities of the application.
 - **Installation**: Includes commands to clone the repo, install dependencies, and run the project.
 - **Installation of Tailwind CSS**: Instructions on installing **Tailwind CSS**, **PostCSS**, and **Autoprefixer**.
 - **Folder Structure**: Explains the organization of the project files and their purposes.
