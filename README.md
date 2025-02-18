@@ -13,7 +13,7 @@ Welcome to **React List App**, a simple and efficient React-based application de
 To get started with the project, follow these steps:
 
 ### 1. Clone the repository
-git clone https://github.com/your-username/react-list-app.git
+git clone (https://github.com/JUNEDSK/react-list-app.git)
 
 ## 2. Install the dependencies
 cd react-list-app
